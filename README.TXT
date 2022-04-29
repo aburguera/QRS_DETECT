@@ -7,9 +7,9 @@ QRS detection and ECG data compression.
 Author : Antoni Burguera
 e-mail : antoni.burguera@uib.es
 
-A paper describing the theory behind this software has been submitted to a peer-reviewer journal. The proper reference will be added to this file after acceptance.
+If you use this software, please cite the following paper:
 
-If you use this software, please cite that reference. If the reference is not available in this README, please contact us.
+A. Burguera. Fast QRS Detection and ECG Compression Based on Signal Structural Analysis. In IEEE Journal of Biomedical and Health Informatics, IEEE, vol. 23, no. 1, pp. 123-131, January, 2019.
 
 =========================
 === BUILD THE PACKAGE ===
